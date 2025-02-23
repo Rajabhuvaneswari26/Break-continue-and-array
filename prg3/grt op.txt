@@ -1,0 +1,4 @@
+Size of array 20 
+size of element 4 
+Length of element is:5 
+The positive number is 78 
