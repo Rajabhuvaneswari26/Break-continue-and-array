@@ -1,0 +1,4 @@
+Size of array 20 
+size of element 4 
+Length of element is:5 
+The number in even position is 26 
